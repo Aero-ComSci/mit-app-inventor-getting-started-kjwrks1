@@ -10,3 +10,6 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
 
 
+<img width="1512" alt="Screenshot 2024-08-29 at 3 03 07 PM" src="https://github.com/user-attachments/assets/17fcf669-d935-436e-927a-8e74fee1f97c">
+<img width="1512" alt="Screenshot 2024-08-29 at 3 03 30 PM" src="https://github.com/user-attachments/assets/d348ef32-46e9-4282-bce0-c48d43c32a60">
+What was quite difficult about this project was the problem solving it required as it really forced you to try different things and try new methods to create the design you wanted. For example, this happened to me especially not on the code as that was given to us but the design view as when I was trying to echance the image of the ball and make it a cookie I had to try many different image processes until I finally settled on my desired method!
